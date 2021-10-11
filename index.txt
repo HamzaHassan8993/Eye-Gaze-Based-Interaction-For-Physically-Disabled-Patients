@@ -1,0 +1,31 @@
+
+
+Project Title: Gaze Based Interaction for Physically Disabled Patients.
+
+
+Group Members Information:
+
+Name:Abdul Moeez Khan.
+email:amk.yzai26@gmail.com
+Contact:03322457802
+
+Name: Muhammad Hammad Rashid.
+email:mhr.bukc@gmail.com
+Contact: 03222565331
+
+Name: Malik Muhammad Usman.
+Email: usmanmalik44200@gmail.com
+Contact:  03472720226
+
+Name: Muhammad Umair.
+Email: umair9631@gmail.com
+Contact: 0348-9099210
+
+Name: Rahim Ahmed.
+Email: raheemahmed98@gmail.com
+Contact: 03158617566
+
+Project will directly run from the application named cameracapture
+Address: fyp>facedetection>bin>debug>cameracapture
+Can also be run from visual studio named
+HW07 |filetype Microsoft visual studio solution
